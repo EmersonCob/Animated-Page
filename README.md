@@ -10,7 +10,6 @@
 
 * [ ] HTML
 * [ ] CSS
-* [ ] JavaScript
 
 ### Reproduced
 
