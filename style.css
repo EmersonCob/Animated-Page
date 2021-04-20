@@ -75,6 +75,31 @@ h1 {
     cursor: pointer;
 } 
 
+.fb:hover{
+    background: #0475e6;
+    border-radius: 50%;
+}
+
+.ig:hover{
+    background: #cc5b73;
+    border-radius: 50%;
+}
+
+.tw:hover{
+    background: #1b6ec2;
+    border-radius: 50%;
+}
+
+.share:hover{
+    background: #1a817c;
+    border-radius: 50%;
+}
+
+.info:hover{
+    background: #67717a;
+    border-radius: 50%;
+}
+
 .social-links{
     width: 50px;
     text-align: center;
